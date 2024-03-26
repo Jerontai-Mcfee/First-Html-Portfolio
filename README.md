@@ -1,4 +1,5 @@
-# First-Html Portfolio
+# HTML, CSS, and Git: Code Refactor
+
 
 Changed Symantics to correct symantics.
 Example <divs> were changed to correct symantic language
